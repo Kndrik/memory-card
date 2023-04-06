@@ -19,7 +19,7 @@ export function Body(props) {
 
     const cardsDisplay = cards.map((card, i) => {
         return (
-            <Card key={i} image={card.image} name={card.name} clickEvent={shuffleCards}/>
+            <Card key={i} image={card.image} name={card.name} clickEvent={() => { props.clickEvent(card.name); shuffleCards();}}/>
         );    
     })
 

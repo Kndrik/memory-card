@@ -3,8 +3,8 @@ import { useState } from 'react';
 export function Scoreboard(props) {
     return (
         <div className="scoreboard">
-            <div className="score">Current: <span>5</span></div>
-            <div className="score">Best: <span>11</span></div>
+            <div className="score">Current: <span>{props.current}</span></div>
+            <div className="score">Best: <span>{props.best}</span></div>
         </div>
     );
 }
