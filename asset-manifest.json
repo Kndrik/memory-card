@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/memory-card/static/css/main.2ecf29fc.css",
+    "main.js": "/memory-card/static/js/main.e51f741b.js",
+    "static/media/wallpaper.jpeg": "/memory-card/static/media/wallpaper.aac75894e7ebc0e921f4.jpeg",
+    "static/media/steamer.png": "/memory-card/static/media/steamer.e54ec53ead4f683c5dcc.png",
+    "static/media/roublard.png": "/memory-card/static/media/roublard.bb4a39c7e836c491b424.png",
+    "static/media/enutrof.png": "/memory-card/static/media/enutrof.6c20f951505049f8fc0f.png",
+    "static/media/zobal.png": "/memory-card/static/media/zobal.0eacdbb0512cb684721a.png",
+    "static/media/huppermage.png": "/memory-card/static/media/huppermage.d7dc35d12c9c47be33e3.png",
+    "static/media/sadida.png": "/memory-card/static/media/sadida.0a5696e9dbbbb06d16fb.png",
+    "static/media/eniripsa.png": "/memory-card/static/media/eniripsa.a74edf25835537ffc9e1.png",
+    "static/media/sram.png": "/memory-card/static/media/sram.adf98e401f3304f50ff2.png",
+    "static/media/xelor.png": "/memory-card/static/media/xelor.d9a9d2591d070a6bd76a.png",
+    "static/media/iop.png": "/memory-card/static/media/iop.88684f8530435edfe879.png",
+    "static/media/eliotrope.png": "/memory-card/static/media/eliotrope.21d024c843a928691936.png",
+    "static/media/feca.png": "/memory-card/static/media/feca.b95f6973b106d3fb25dd.png",
+    "static/media/osamodas.png": "/memory-card/static/media/osamodas.eeb3595a093b56f8018d.png",
+    "static/media/forgelance.png": "/memory-card/static/media/forgelance.68a82dc57b89391a12be.png",
+    "static/media/cra.png": "/memory-card/static/media/cra.ce977db7519188144e12.png",
+    "static/media/ouginak.png": "/memory-card/static/media/ouginak.06a35302ac1f1dab6b61.png",
+    "static/media/sacrieur.png": "/memory-card/static/media/sacrieur.288acba151ef9e1e8d08.png",
+    "static/media/ecaflip.png": "/memory-card/static/media/ecaflip.4403931a5ff836768289.png",
+    "static/media/pandawa.png": "/memory-card/static/media/pandawa.908e1bf97257502e877b.png",
+    "static/media/DofusLogo.png": "/memory-card/static/media/DofusLogo.fe579c4b580089d5d5ff.png",
+    "index.html": "/memory-card/index.html",
+    "main.2ecf29fc.css.map": "/memory-card/static/css/main.2ecf29fc.css.map",
+    "main.e51f741b.js.map": "/memory-card/static/js/main.e51f741b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ecf29fc.css",
+    "static/js/main.e51f741b.js"
+  ]
+}
