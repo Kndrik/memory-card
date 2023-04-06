@@ -99,3 +99,7 @@ img.logo {
   font-weight: bold;
   font-size: 24px;
 }
+
+ul {
+  list-style: none;
+}
